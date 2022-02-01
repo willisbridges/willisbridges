@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @willisbridges
 - 👀 I’m interested in Data Analytics and Data Science! 
 - 🌱 I’m currently learning Python for Data Analysis. I've almost completed the IBM Data Analytics professional certificate from CourseEra!
-- 💞️ I’m looking to collaborate on Data projects revolving around optimizing custoemr experiences in any industry.
+- 💞️ I’m looking to collaborate on Data projects revolving around optimizing customer experiences in any industry.
 - 📫 How to reach me: Shoot me an email at willisdbridges@gmail.com. I'd love to set up some informational interviews with anyone looking for collaboration or interested in mentoring a budding Data professional.
 
 <!---
