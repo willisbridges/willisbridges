@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Willis Bridges</h1>
 <h3 align="center">An aspiring Data Scientist from Seattle!</h3>
 
-- 🔭 I’m currently working on **A Discord Bot**
+- 🔭 I’m currently working on **Underdog Devs**
 
 - 🌱 I’m currently learning **Web Development via The Odin Project**
 
