@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Willis Bridges</h1>
-<h3 align="center">An aspiring Data Scientist from Seattle!</h3>
+<h3 align="center">A Data Scientist from Seattle!</h3>
 
 - 🔭 I’m currently working on **Underdog Devs**
 
