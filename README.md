@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Willis Bridges</h1>
 <h3 align="center">A Data Scientist from Seattle!</h3>
 
-- 🔭 I’m currently working on **Underdog Devs**
+- 🔭 I’m currently working on **WagerOn**
 
-- 🌱 I’m currently learning **Web Development via The Odin Project**
+- 🌱 I’m currently learning **how to create a fully functional app from scratch**
 
 - 💬 Ask me about **Data Science or Python!**
 
